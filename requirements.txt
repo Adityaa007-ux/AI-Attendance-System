@@ -1,4 +1,6 @@
-streamlit
-opencv-python-headless
+opencv-python
+deepface
+pandas
+tf-keras
+tensorflow
 numpy
-Pillow
